@@ -1,0 +1,21 @@
+{
+  "name": "modelfusion-terminal-app-start",
+  "version": "1.0.0",
+  "description": "Starter template for building ModelFusion terminal apps with TypeScript.",
+  "scripts": {
+    "start": "npx ts-node src/main.ts"
+  },
+  "author": "Lars Grammel",
+  "license": "MIT",
+  "dependencies": {
+    "modelfusion": "^0.23.0",
+    "zod": "^3.22.2",
+    "zod-to-json-schema": "^3.21.4",
+    "dotenv": "16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.3",
+    "typescript": "^5.2.2",
+    "ts-node": "10.9.1"
+  }
+}
