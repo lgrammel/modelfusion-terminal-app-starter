@@ -1,6 +1,6 @@
 # ModelFusion Terminal App Starter
 
-The ModelFusion Terminal App Starter is a template for creating your own AI terminal app. It is based on the [ModelFusion](https://modelfusion.dev) library and uses OpenAI's GPT-3.5-turbo model to generate text. Follow the steps below to set up your environment.
+The ModelFusion Terminal App Starter is a template for creating your own AI terminal app. It is based on the [ModelFusion](https://modelfusion.dev) library and uses OpenAI's `gpt-3.5-turbo-instruct`` model to generate text. Follow the steps below to set up your environment.
 
 ## Prerequisites
 
