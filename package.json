@@ -8,7 +8,7 @@
   "author": "Lars Grammel",
   "license": "MIT",
   "dependencies": {
-    "modelfusion": ">= 0.80.0",
+    "modelfusion": ">= 0.84.0",
     "zod": "3.22.4",
     "zod-to-json-schema": "3.22.0",
     "dotenv": "16.3.1"
