@@ -7,7 +7,7 @@ async function main() {
   const textStream = await streamText(
     openai.CompletionTextGenerator({
       model: "gpt-3.5-turbo-instruct",
-      maxCompletionTokens: 500,
+      maxGenerationTokens: 500,
     }),
     "Say 'Hello, World!' in 25 different languages without mentioning the language name."
   );
